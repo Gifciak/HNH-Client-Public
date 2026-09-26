@@ -33,11 +33,11 @@ java -jar hafen.jar
 
 Game updates are distributed through this updater tool:
 
-1. Download `HurricaneUpdater.jar` from the [GitHub Releases](https://github.com/Gifciak/HNH-Client-Public/releases) section
+1. Download `HNHClientUpdater.jar` from the [GitHub Releases](https://github.com/Gifciak/HNH-Client-Public/releases) section
 2. Place your local client binaries in a folder (e.g., `C:\Users\YourName\HNHClient`)
 3. Run the updater:
    ```bash
-   java -jar HurricaneUpdater.jar
+   java -jar HNHClientUpdater.jar
    ```
 4. Select your install folder and click "Check and Update"
 
