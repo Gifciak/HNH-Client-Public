@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-26T20:37:26.723034500Z",
+  "generatedAt": "2026-09-26T20:17:57.324942Z",
   "files": [
-    {"path":".temp-manifest/manifest.json","size":108554,"sha256":"bc62516fac55ee8d1dd13de736b3bfa85efe5d56a739d8cd5bc3e5750c8e6302"},
     {"path":"AlarmSounds/ND_Ambush.wav","size":187144,"sha256":"daa33ce1c7fd0a4dd18cea801f9574c2aa783457a759318fa992610f958ef171"},
     {"path":"AlarmSounds/ND_Badger.wav","size":204676,"sha256":"74e25f265aa821f14a72165b1bb3643496168596e26ea048afb0eb4a710cb916"},
     {"path":"AlarmSounds/ND_Barnacles.wav","size":179632,"sha256":"e0d22597d5ef1736d6c312e2dd9d4953eac0db6687d8f33ebd294b8d13704ce5"},
@@ -73,6 +72,7 @@
     {"path":"lwjgl-awt.jar","size":62833,"sha256":"b5803970dbde63797ad91774c6e81d610123e131ba0660e789082b7f0435b52a"},
     {"path":"lwjgl-fat.jar","size":2148455,"sha256":"946648a2ab0df3e400faa4851d4043f08cc5ec4f976f7d3b3fb965b895acc936"},
     {"path":"lwjgl-opengl-fat.jar","size":1738587,"sha256":"525c58f51bd91563f0a2dc5aacce8dcf8ca27e73002d364034c37174c6e02710"},
+    {"path":"manifest.json","size":108200,"sha256":"739cf60db960453e65f92ec59c6acc3d8792df540d480dc67b7d4b9cdd572d97"},
     {"path":"midiFiles/example.mid","size":11918,"sha256":"853c5d63d49fdfc685f4215092affa83794298347a52e328ee24fe2ee86da522"},
     {"path":"res/customclient/bgsizer.png","size":649398,"sha256":"20aff84eb507d84837263c0bff986024917effe6b2bae4634173c60ff9e782a3"},
     {"path":"res/customclient/buffs/crime.res","size":3206,"sha256":"92f08acf4fb747be8fce7abd85bda00a5b546072641a2f32cabe476f9b99e691"},
