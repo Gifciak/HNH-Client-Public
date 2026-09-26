@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-26T20:37:26.723034500Z",
+  "generatedAt": "2026-09-26T21:31:48.403102400Z",
   "files": [
     {"path":".temp-manifest/manifest.json","size":108554,"sha256":"bc62516fac55ee8d1dd13de736b3bfa85efe5d56a739d8cd5bc3e5750c8e6302"},
     {"path":"AlarmSounds/ND_Ambush.wav","size":187144,"sha256":"daa33ce1c7fd0a4dd18cea801f9574c2aa783457a759318fa992610f958ef171"},
@@ -43,6 +43,7 @@
     {"path":"AlarmSounds/ND_Wolverine.wav","size":394036,"sha256":"ec19866fa110a8c43f219a9d1d30a56a37a70a88248720c8cefe9f376eb1c4ea"},
     {"path":"AlarmSounds/ND_YoHeadsUp.wav","size":147530,"sha256":"f09dbfebb7ab6eb8e789672f42d90495adb855bc27782df03cbd59c2e9174638"},
     {"path":"AlarmSounds/settings/defaultAlarms","size":1728,"sha256":"a933f6fb733d4b2aa6feb31de32e0a7ea4a649e54f1353f852952556d3472994"},
+    {"path":"HNHClientUpdater.jar","size":30275,"sha256":"ae25c606554052a2d1a8e1682856abfb4efdbe43a6468f3c9b6119548cd029d3"},
     {"path":"MapIconsPresets/defaultPresets","size":1684,"sha256":"1baa6f5171d0b4efa6d421e1848a0354e5cb382fd6aad4dfbafd6e0fcef45502"},
     {"path":"Play.bat","size":312,"sha256":"7eb484284695f7bcc583dcf26ebc6a23f050272e478cbd3fad66d266e7486525"},
     {"path":"Play_Linux.sh","size":693,"sha256":"954a37c91a137c3a82a64cd4648010f40353bf46d17d8de627cce2f9fa2c3b84"},
