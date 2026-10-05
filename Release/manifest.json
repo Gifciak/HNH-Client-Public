@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T10:46:35.445729500Z",
+  "generatedAt": "2026-10-05T10:53:39.503707400Z",
   "files": [
-    {"path":".temp-manifest/manifest.json","size":108554,"sha256":"bc62516fac55ee8d1dd13de736b3bfa85efe5d56a739d8cd5bc3e5750c8e6302"},
     {"path":"AlarmSounds/ND_Ambush.wav","size":187144,"sha256":"daa33ce1c7fd0a4dd18cea801f9574c2aa783457a759318fa992610f958ef171"},
     {"path":"AlarmSounds/ND_Badger.wav","size":204676,"sha256":"74e25f265aa821f14a72165b1bb3643496168596e26ea048afb0eb4a710cb916"},
     {"path":"AlarmSounds/ND_Barnacles.wav","size":179632,"sha256":"e0d22597d5ef1736d6c312e2dd9d4953eac0db6687d8f33ebd294b8d13704ce5"},
@@ -149,7 +148,6 @@
     {"path":"res/customclient/menugrid/Bots/FishingBot.res","size":25493,"sha256":"90326564704827e1bf809a86b17e7bad1a8846fd6cec113c5250be44a90b4f21"},
     {"path":"res/customclient/menugrid/Bots/GatheringBot.res","size":4565,"sha256":"21ecf238152733224cd7ecf097affaf279475e7771acc2dcf9034b0153418509"},
     {"path":"res/customclient/menugrid/Bots/GrubGrubBot.res","size":23410,"sha256":"589bf285b398cfb50ce274a9ece97426f41a1f5dc1f4e970cb8e78cbb6be95f6"},
-    {"path":"res/customclient/menugrid/Bots/MiningBot.res","size":25493,"sha256":"90326564704827e1bf809a86b17e7bad1a8846fd6cec113c5250be44a90b4f21"},
     {"path":"res/customclient/menugrid/Bots/OceanScoutBot.res","size":23898,"sha256":"4a78ef2ae387e1cbbcea36f71d88c3ca6b5a42ca94e7939e6082fab1e00c5e0c"},
     {"path":"res/customclient/menugrid/Bots/RoastingSpitBot.res","size":11839,"sha256":"0fa517a862b419b9b062f3a6222068cc594bf026a3b40bfae602813994f70008"},
     {"path":"res/customclient/menugrid/Bots/TarKilnEmptierBot.res","size":27671,"sha256":"86017d68b747a710ed24980774426394877340b2799f645fc425f76d95f56f14"},
